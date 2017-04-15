@@ -1,0 +1,22 @@
+{
+  "name": "jy-flashcard-generator",
+  "version": "1.0.0",
+  "description": "Week11 Flashcards",
+  "main": "cards.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackie2017/jy-flashcard-generator.git"
+  },
+  "author": "Jacqueline Young",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jackie2017/jy-flashcard-generator/issues"
+  },
+  "homepage": "https://github.com/jackie2017/jy-flashcard-generator#readme",
+  "dependencies": {
+    "requirer": "0.0.1"
+  }
+}
